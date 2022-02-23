@@ -1,0 +1,51 @@
+- profile:
+  initials: KI
+  name: Kaushik Iyer
+  profession: Student and Tech Enthusiast
+  image: images/profile.jpeg
+  location: Los Angeles, CA, USA
+  relocation: true
+  role: Currently studying at
+  company: USC
+  for_hire: true
+  focus: Building an awesome OSS community
+  focus_url: https://unpackaged.reviews
+  about: |
+    
+  skills:
+    - Java
+    - Javascript
+    - Python
+    - C/C++
+    - Golang
+  tools:
+    - React
+    - Gatsby
+    - Next.js
+    - React Native
+    - Spring boot
+    - Hibernate
+    - NodeJS
+    - Apache Kafka
+    - Django
+    - OKD Openshift
+    - Docker
+    - Helm
+    - Puppet
+    - Ansible
+    - Hadoop
+    - Spark
+    - Kong
+    - Debezium
+    - Postgresql
+    - MongoDB
+    - MySql
+    - Elasticsearch
+    - Cassandra
+    - Redis
+    - Neo4J
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

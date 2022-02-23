@@ -1,0 +1,99 @@
+- name: EcsaDB
+  description: Developed a high available key-value store to redistribute keys upon node additions and removals; executed a slotted-page persistence and a custom redistribution algorithm in Golang.
+  status: in progress
+  tags:
+    - Golang
+    - Threads
+    - B+ Trees
+    - Slotted Pages
+  icon: images/project.jpg
+
+- name: React CDC Renderer
+  url: https://github.com/KaushikIyer16/react-cdc-renderer
+  description: A custom renderer for React components that can record data on the number of times a particular component is rendered and the render timelines to understand and improve App performance. I have to execute a mechanism to push the data to a graph database like Hasura and build interactive dashboards
+  status: in progress
+  tags:
+    - React
+    - Javascript
+    - Hasura
+  icon: github
+
+- name: Ralloc
+  url: https://github.com/KaushikIyer16/Ralloc
+  description: implemented an allocation software to generate seating arrangement matrices and audit reports; utilized graphical modeling of data to reduce processing times from hours to minutes.
+  status: live
+  tags:
+    - Java
+    - Bootstrap
+    - Angular
+  icon: website
+
+- name: Sentiment Analysis
+  url: https://github.com/sentiment-analysis
+  description: A tool that scrapes through Telegram BotAPI data to understand the overall positive/negative sentiment to a crypto-currency like SHIB/DOGE over a span of 1 month. I have written data cleaning processes such as using demoji to replace emojis with text and have used NLTK Vader to compute the overall sentiment of the message.
+  status: live
+  tags:
+    - Python
+    - NLTK
+    - Plotly
+  icon: github
+
+- name: Network Traffic Shaper
+  description: Designd a Network Traffic Shaper using a token bucket filter. Used four pthreads to simulate the arrival of packets, tokens and servers to serve the packets. Used pthread_mutex and pthread_conditions to synchronize the data-flow between the threads. Calculated Statistics to understand the minimum variance to serve a packet and worked on reducing the same.
+  status: live
+  tags:
+    - C
+    - pthreads
+    - Multithreaded synchronization
+  icon: website
+
+- name: Debezium
+  description: Debezium is an open source distributed platform for change data capture by RedHat. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. I am an active committer and have contributed key features like incremental snapshot and improved table locking.
+  status: live
+  tags:
+    - Java
+    - Change Data Capture
+    - Maven
+  icon: github
+
+- name: Realtime data streaming using PostgreSQL
+  description: Developed a data synchronization pipeline that can capture data changes; leveraged PostgreSQL replication modes, Apache Kafka, Debezium, and Kafka Streams to improve synchronization speeds from >5 mintutes to <1 seconds between the PostgreSQL cluster and the Elasticsearch cluster.
+  url: https://youtu.be/R8UnydieTj4
+  status: live
+  tags:
+    - Apache Kafka
+    - Spring Boot
+    - Dependency Injection
+    - Distributed Data synchronization
+    - Change Data Capture
+    - Gradle
+  icon: website
+
+- name: Archetyper
+  description: Archetyper is my attempt to provide a one-line command for creating the directory structure and all the files needed for completing the setup of any project. I am yet to execute custom archetypes and an archetype registry so that people can store their most common archetypes and share it with the rest of the community.
+  url: https://unpackaged.reviews/archetyper
+  status: in progress
+  tags:
+    - Javascript
+    - CLI
+    - NodeJS
+    - MongoDB
+  icon: website
+
+- name: Testimonial
+  url: https://github.com/KaushikIyer16/Testimonial/
+  description: A Testimonial App for the students of Indian Institute of Management, Ahmedabad. Students and Alumni can add testimonials to their peers and choose to keep it anonymous. I have built the backend using PHP and MySQL to store and fetch testimonial information and render it. I have used an Angular frontend to interface with the PHP rendered data to provide fast search options. Additional feature sets include mail customization with HTML, sharing testimonials using system generated links.
+  tags:
+    - PHP
+    - Angular
+    - MySQL
+  icon: github
+
+# - name: Terrabuilder
+
+# - name: a11y
+
+# - name: Untangled cloud
+
+# - name: Higin Esports
+
