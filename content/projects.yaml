@@ -1,3 +1,22 @@
+- name: Weenix OS
+  description: Designed a simple OS from scratch, built my own threading, paging and VFS libraries to provide a fully functioning OS
+  status: live
+  tags:
+    - C
+    - Operating Systems
+    - Multithreaded synchronization
+    - Paging
+    - Virtual File Systems
+  icon: website
+- name: e2search
+  url: https://github.com/KaushikIyer16/e2search
+  description: A simple Java Spring Boot Server that can mock a single node Elasticsearch instance.
+  tags:
+    - Java
+    - Spring Boot
+    - Lucene
+  icon: github
+  status: live
 - name: EcsaDB
   description: Developed a high available key-value store to redistribute keys upon node additions and removals; executed a slotted-page persistence and a custom redistribution algorithm in Golang.
   status: in progress
