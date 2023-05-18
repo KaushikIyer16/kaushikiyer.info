@@ -6,7 +6,7 @@ const Summary = ({ profile }) => (
   <div className="flex pb-8">
     <div className="w-1/2 pr-4 lg:pr-12 border-r border-line">
       <h5 className="font-header font-semibold text-front text-sm uppercase">
-        Currently studying at
+        Currently Engineer at
       </h5>
       <h3 className="font-header font-light text-2xl text-front leading-tight">
         {profile.company}
